@@ -9,7 +9,7 @@ const {
   getUser,
   getUsers,
   getStats,
-} = require('../controller/User.js')
+} = require('../controller/user.js')
 const router = require('express').Router()
 
 //edit user
